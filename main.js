@@ -11,6 +11,3 @@ function draw(){
 function play(){
     sound.play();
 }
-function preload(){
-    song=loadSound("music.mp3");
-}
