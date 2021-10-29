@@ -51,3 +51,6 @@ sm {
   .copyright_footer a {
     color: #fdb813;
   }
+  .play_button{
+      filter: contrast(150%);
+  }
