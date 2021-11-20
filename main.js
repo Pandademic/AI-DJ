@@ -4,7 +4,7 @@ leftWristY=0;
 rightWristY=0;
 rightWristX=0;
 function preload(){
-    song=loadSound("assets/music.mp3");
+    song=loadSound("music.mp3");
 }
 function setup(){
    canvas=createCanvas(600,500);
